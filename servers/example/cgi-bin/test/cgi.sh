@@ -1,1 +1,0 @@
-echo "Cgi output van cgi.sh"
